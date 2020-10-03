@@ -1,4 +1,4 @@
-package com.example.team39;
+package com.example.theminimumwagers;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.team39;
+package com.example.theminimumwagers;
 
 abstract public class Shape {
     private int x;

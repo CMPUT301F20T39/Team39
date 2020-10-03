@@ -1,4 +1,4 @@
-package com.example.team39;
+package com.example.theminimumwagers;
 
 import androidx.appcompat.app.AppCompatActivity;
 
